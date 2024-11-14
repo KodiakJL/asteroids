@@ -1,4 +1,4 @@
-#!/Users/jacobo/Programming/workspace/asteroids/venv/bin/python3
+#!/home/kodiakjl/workspace/github.com/KodiakJL/asteroids/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
